@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xj/code/Android/newshanxun1/app/build/intermediates/res/merged/debug/layout/about_us.xml",
+        "source": "/Users/xj/code/Android/newshanxun1/app/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/Users/xj/code/Android/newshanxun1/app/build/intermediates/res/merged/debug/layout/jpush_richpush_actionbar_layout.xml",
+        "source": "/Users/xj/code/Android/newshanxun1/app/src/main/res/layout/jpush_richpush_actionbar_layout.xml"
+    },
+    {
+        "merged": "/Users/xj/code/Android/newshanxun1/app/build/intermediates/res/merged/debug/layout/activity_main_2.xml",
+        "source": "/Users/xj/code/Android/newshanxun1/app/src/main/res/layout/activity_main_2.xml"
+    }
+]

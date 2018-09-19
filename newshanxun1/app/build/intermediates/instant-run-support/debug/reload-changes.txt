@@ -1,0 +1,4 @@
+CHANGED,/Users/xj/code/Android/newshanxun1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/uncle/newshanxun/MainActivity$5$override.class
+CHANGED,/Users/xj/code/Android/newshanxun1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/uncle/newshanxun/MainActivity$override.class
+CHANGED,/Users/xj/code/Android/newshanxun1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/xj/code/Android/newshanxun1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/uncle/newshanxun/MainActivity$6$override.class
